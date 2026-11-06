@@ -187,3 +187,14 @@ while True:
     if star_timer % 20 == 0:
         for star in random.sample(stars, 30):
             star.radius = random.uniform(0.015, 0.05)
+
+
+
+
+
+
+# for runing progrimming
+# python --version
+# python -m ensurepip --upgrade
+# python main.py
+# python --version
